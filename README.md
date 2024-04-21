@@ -24,7 +24,7 @@ Today, the brilliance of the Land Ethic creed remains relevant and self-evident:
 
 So the question we really should be asking is: what does the Land think of technology? To understand this, we need to understand technology itself.
 
-🔥 ⇒ 🛞 ⇒ 📺 ⇒ 🤖
+## 🔥 ⇒ 🛞 ⇒ 📺 ⇒ 🤖
 
 Technology is an impressive expression; it immortalizes the intent behind which the technology was made, cementing its message within the confines of its medium. Marshall McLuhan’s theory of extensions discusses how various technologies serve as extensions for existing faculties of the human being. This provides an interesting perspective on the evolution of humanity as correlated with the evolution of our technological capabilities – and like Darwinian evolution, choice is very much an illusion. For example, the first monkeys to walk on two feet might have thought it was an exerciseable choice, but try maneuvering around like a chimp and you will quickly realize that something has been lost in this process – and it is likewise with technology.
 
