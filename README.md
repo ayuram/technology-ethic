@@ -29,7 +29,9 @@ So the question we really should be asking is: what does the Land think of techn
 Technology is an impressive expression; it immortalizes the intent behind which the technology was made, cementing its message within the confines of its medium. Marshall McLuhan’s theory of extensions discusses how various technologies serve as extensions for existing faculties of the human being. This provides an interesting perspective on the evolution of humanity as correlated with the evolution of our technological capabilities – and like Darwinian evolution, choice is very much an illusion. For example, the first monkeys to walk on two feet might have thought it was an exerciseable choice, but try maneuvering around like a chimp and you will quickly realize that something has been lost in this process – and it is likewise with technology.
 
 *That fire being harnessed to control nature ignited a controlling nature within Man;*
+
 *That driving through the city gates was a gateway to overstepping our bounds in the Land;*
+
 *That entertaining news rewired us to perceive all news as plain entertainment;*
 
 Neil Postman suggests an inherent evil of technological pleasure-maxing in *Amusing Ourselves to Death*; the phrase “the medium is the metaphor” rings true today and is a call for developers to understand that our final and greatest invention, AGI, is not immune to this effect on us – or the Land. Yes, the medium is the metaphor for the Land as well. In other words, just as we are liable to the negative, unseen effects of technology, it is fitting to think that the Land is also capable of falling into such a rut. This is why it is misguided to conceive of a medium that technology operates in without consideration of the Land; even if we, human beings, don’t notice the effects of certain mediums on us, the Land might be telling a different story.
@@ -45,7 +47,9 @@ For the sake of demonstration, consider the technology of computing. What once w
 So just as we like to interface with technology that complements our human features, the Land likes to interface with technology that naturally works with it – and the Land rewards such behavior just like we would.
 
 *Is it not the path of least resistance to harness the wind than to rape the ground for power?*
+
 *Is it not easier to eat the meat around the seed than to cage life in machines of perpetual torture?*
+
 *Is it not evident that Man has failed in His duties to the Land – foregoing His identity of Sapien?*
 
 ## Thinking like a Mountain
